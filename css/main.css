@@ -1,0 +1,372 @@
+.new-nav a {
+    font-family: '微軟正黑體'
+}
+
+.btnx4 {
+    display: block;
+    height: 90px;
+    background-color: #ffffff;
+    border-bottom: 4px solid #dbe9e7;
+    text-align: center;
+    color: #d6bc91;
+    border-right: 4px solid rgb(232, 233, 227);
+    letter-spacing: 1px;
+    padding-top: 34px
+}
+
+.btnx4:hover {
+    background-color: #e8c19d;;
+    transition: all .2s ease-in .01s
+}
+
+.btnx4 p {
+    font-size: 19px
+}
+
+@media(max-width:768px) {
+    .btnx4 {
+        height: 55px;
+        border-bottom: 3px solid
+    }
+    .btnx4 p {
+        font-size: 16px;
+            margin-top: -22px;
+    }
+    .ft-03 {
+    width: 85%;
+}
+#ft {
+
+    background-position: 62%;
+}
+
+p {
+    font-size: 16px
+}
+.tb-2 {
+    font-size: 16px!important
+
+}
+    
+}
+
+img.logo {
+    margin: 0 auto
+}
+
+.ac-area {
+    display: block;
+    background-color: rgba(50, 88, 102, 0.6);
+    min-height: 250px
+}
+
+.ac-x4 img {
+    padding-top: 20px
+}
+
+#part1 a {
+    text-decoration: none
+}
+
+
+
+.blue-area {
+    padding-top: 30px
+}
+
+.modal-num {
+    border: 1px solid #b8aa7d;
+    padding: 5px 8px;
+    margin-right: 10px;
+    color: #b8aa7d;
+    margin-top: 20px;
+    font-size: 16px;
+    transition: all .1s ease-in .01s
+}
+
+.modal-num:hover {
+    color: #fff;
+    background-color: #b8aa7d
+}
+
+.pro-tit-lg {
+    font-size: 17px;
+    color: #919699;
+    padding-bottom: 20px;
+    margin-top: -13px;
+    letter-spacing: 1px
+}
+
+
+
+.feature img {
+    padding-top: 30px
+}
+
+.feature a {
+    text-decoration: none
+}
+
+
+
+@media(max-width:500px) {
+    .tv-ar-04 {
+        padding: 33px 12px!important
+    }
+    .tv-ar-04 img {
+        padding-bottom: 0;
+        margin-top: -24px
+    }
+    p.dia-tit {
+        font-size: 20px!important
+    }
+    .modal-content li {
+        font-size: 15px;
+        line-height: 25px
+    }
+    .dia-con-2 li {
+        color: #000;
+        font-size: 17px;
+        list-style: none;
+        text-align: left;
+        letter-spacing: 1px;
+        margin-left: -39px;
+        line-height: 29px
+    }
+    .modal-content li {
+        font-size: 15px!important;
+        margin-left: 32px!important;
+        line-height: 24px!important
+    }
+    .dia-con-2 {
+        width: 315px!important;
+        margin-left: -45px!important
+    }
+    .vedio-you {
+        height: 397px!important
+    }
+}
+
+
+@media screen and (min-width:768px) and (max-width:1600px) {
+    .ft-03 {
+    right: 16%;
+    display: block;
+    position: absolute;
+    width: 67%;
+}
+#ft {
+
+    background-position: 70%;
+}
+
+}
+
+@media screen and (min-width:600px) and (max-width:767px) {
+
+}
+
+@media screen and (min-width:700px) and (max-width:767px) {
+   
+}
+
+
+
+
+
+
+@media screen and (min-width:600px) and (max-width:800px) {
+    .lg-you {
+        width: 542px;
+        height: 305px
+    }
+    .vedio-you {
+        background-image: url(../img/tv-main-sm.png);
+        height: 400px;
+        background-position: center -26px;
+        margin-top: 78px;
+        padding-top: 8px
+    }
+}
+
+@media(max-width:599px) {
+    .lg-you {
+        width: 100%;
+        height: 400px
+    }
+    .vedio-you {
+        background-image: none
+    }
+    .dia-p2 {
+        padding: 0
+    }
+    .list-txt {
+        font-size: 15px!important;
+        padding: 0px 0px 21px 0px!important
+    }
+    .form-01 tr {
+        height: 25px!important;
+        font-size: 14px!important
+    }
+    .form-01 tr:first-child {
+        height: 30px!important;
+        font-size: 16px!important
+    }
+}
+
+@media(max-width:390px) {
+    .dia-btn {
+        padding: 12px 20px
+    }
+}
+
+
+
+/* award-list page */
+
+.form-01 {
+    width: 100%
+}
+
+.form-01 td {
+    /* border: 2px solid #ececec */
+}
+
+.form-01 tr {
+    background-color: #fff;
+    height: 37px;
+    color: #0e121b;
+    font-size: 16px;
+    border-bottom: 1px solid #eee
+}
+
+.form-01 tr:first-child {
+    background-color: #3c7a94;
+    height: 40px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #fff;
+    background-image: url(../img/bn-bg.jpg);
+    background-size: cover
+}
+
+
+
+/* we */
+
+h2 {
+        font-size: 37px;
+    color: #9c9c98;
+    font-weight: bold;
+    margin-bottom: 30px;
+    letter-spacing: .7px;
+    font-family:'微軟正黑體';
+}
+
+p {
+    font-size: 18px;
+    color: #3e3838;
+    line-height: 34px;
+}
+
+span.txt-odo {
+    color: #ab6130;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 25px;
+    color: #637e40;
+    font-weight: bold;
+    text-align: center;
+    font-family: '微軟正黑體'
+}
+
+p.txt-bl {
+    font-size: 20px;
+    color: #567ca7;
+}
+
+.li-01 li {
+        color: #584f4f;
+    font-size: 18px;
+    text-align: left;
+    list-style: none;
+    border-bottom: 1px dotted #80c269;
+    line-height: 4.5rem;
+}
+
+.block-g {
+    background-color: #fff;
+    padding: 41px 71px;
+    border-radius: 20px;
+}
+
+span.tit-bl {
+    font-weight: bold;
+    color: #4faeb8;
+    font-size: 20px;
+    display: block;
+}
+
+@media (min-width: 768px) {
+header {
+    min-height: 70%;
+    overflow: hidden;
+}
+.ft-03 {
+        right: 22%;
+    display: block;
+    position: absolute;
+    width: 550px
+}
+}
+
+.tb-2 {
+    font-size: 18px;
+    color: #3e3838;
+}
+
+#ft {
+        background-image: url(../img/dia-bg.jpg);
+       background-size: cover;
+       min-height: 800px;
+    }
+
+
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: #ffffff;
+    
+    border: none;
+}
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+    border-top-color: #ddd;
+    background-color: rgba(3, 14, 31, 0.55);
+    color: #fff;
+    font-size: 16px;
+}
+
+
+
+.panel-title a {
+    color:#31708f;
+    font-family:'微軟正黑體';
+    font-weight:bold
+}
+
+
+.panel-title a:hover {
+    color: #318ebb;
+    text-decoration:none
+}
+
+footer {
+   
+    text-align: center;
+    
+  
+    letter-spacing: .7px;
+}
